@@ -43,4 +43,5 @@ You are required to submit the following for review:
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-## project is as described above. Code has been refactored and cleaned to standards in a logical manner. Comments are noted throughout both the HTML and CSS files for clarity on changes. For further questions, please contact me directly via the github platform.
+## Notes
+project is as described above. Code has been refactored and cleaned to standards in a logical manner. Comments are noted throughout both the HTML and CSS files for clarity on changes in the second commit. Latest commit does not include comments for cleanliness. For further questions, please contact me directly.
