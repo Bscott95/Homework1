@@ -1,12 +1,12 @@
 ## Description of Project
 This code base had to be significantly refactored. Changes include and follow the below criteria:
-- includes semantic HTML elements
-- elements follow a logical structure
+- now includes semantic HTML elements
+- elements now follow a logical structure
 - alt attributes added to images
 - heading attribues follow sequential order
-- more descriptive title element added 
+- more descriptive title added
 - nav bar links accurately to other sections of page
-- multiple CSS classes reworded/consolidated for readability
+- multiple CSS classes reworded/consolidated for developer readability
 
 More specifics are below.
 

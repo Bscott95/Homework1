@@ -1,13 +1,25 @@
+/* reset padding/margins */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* CSS for Global attributes */
 body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* CSS for navbar section */
 .nav-bar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,11 +53,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* CSS for the first section of the main image*/
 .main-background-image {
     height: 800px;
     width: 100%;
@@ -55,14 +63,29 @@ a {
     background-position: center;
 }
 
+/* CSS for second section for the start of the main content */
 .contentSection {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-p {
-    font-size: 16px;
+.contentBlock {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.contentBlock img{
+    max-height: 200px;
+}
+
+.contentBlock h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -75,6 +98,7 @@ p {
     margin-left: 25px;
 }
 
+/* CSS for benefits aside section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,24 +123,7 @@ p {
     max-width: 150px;
 }
 
-.contentBlock {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.contentBlock img{
-    max-height: 200px;
-}
-
-.contentBlock h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* CSS for Footer section */
 .footer {
     padding: 30px;
     clear: both;
