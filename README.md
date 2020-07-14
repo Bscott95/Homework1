@@ -1,3 +1,22 @@
+## Description of Project
+This code base had to be significantly refactored. Changes include and follow the below criteria:
+- includes semantic HTML elements
+- elements follow a logical structure
+- alt attributes added to images
+- heading attribues follow sequential order
+- more descriptive title element added 
+- nav bar links accurately to other sections of page
+- multiple CSS classes reworded/consolidated for readability
+
+More specifics are below.
+
+## Links
+Github Repo: https://github.com/Bscott95/Homework1
+Deployed website: https://bscott95.github.io/Homework1/ 
+
+## Screenshot
+![](homework1.png)
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -21,7 +40,7 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements // seems done
+THEN I find semantic HTML elements 
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning // seems done
 WHEN I view the image elements
@@ -43,5 +62,3 @@ You are required to submit the following for review:
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-## Notes
-project is as described above. Code has been refactored and cleaned to standards in a logical manner. Comments are noted throughout both the HTML and CSS files for clarity on changes in the second commit. Latest commit does not include comments for cleanliness. For further questions, please contact me directly.
